@@ -1,0 +1,338 @@
+# Query: br.com
+# ContextLines: 1
+
+95 resultados - 21 arquivos
+
+android\app\build.gradle:
+  35          // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+  36:         applicationId "br.com.loja.loja_ale"
+  37          minSdkVersion 16
+
+android\app\google-services.json:
+   12          "android_client_info": {
+   13:           "package_name": "br.com.ale.gerente_loja"
+   14          }
+
+   37                "ios_info": {
+   38:                 "bundle_id": "br.com.ale.storeOwner"
+   39                }
+
+   48          "android_client_info": {
+   49:           "package_name": "br.com.loja.loja_ale"
+   50          }
+
+   73                "ios_info": {
+   74:                 "bundle_id": "br.com.ale.storeOwner"
+   75                }
+
+   84          "android_client_info": {
+   85:           "package_name": "br.com.loja.loja_ale"
+   86          }
+
+  109                "ios_info": {
+  110:                 "bundle_id": "br.com.ale.storeOwner"
+  111                }
+
+  120          "android_client_info": {
+  121:           "package_name": "br.com.ale.store_owner"
+  122          }
+
+  145                "ios_info": {
+  146:                 "bundle_id": "br.com.ale.storeOwner"
+  147                }
+
+android\app\src\debug\AndroidManifest.xml:
+  1  <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  2:     package="br.com.loja.loja_ale">
+  3      <!-- Flutter needs it to communicate with the running application
+
+android\app\src\main\AndroidManifest.xml:
+  1  <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  2:     package="br.com.loja.loja_ale">
+  3  
+
+android\app\src\main\java\br\com\ciolfi\loja_virtual\MainActivity.java:
+  1: package br.com.loja.loja_ale;
+  2  
+
+android\app\src\profile\AndroidManifest.xml:
+  1  <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  2:     package="br.com.loja.loja_ale">
+  3      <!-- Flutter needs it to communicate with the running application
+
+build\app\generated\not_namespaced_r_class_sources\debug\processDebugResources\r\br\com\ciolfi\loja_virtual\R.java:
+     7  
+     8: package br.com.loja.loja_ale;
+     9  
+
+   588       * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
+   589:      * <tr><td><code>{@link #ColorStateListItem_alpha br.com.loja.loja_ale:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+   590       * </table>
+
+   625       *
+   626:      * @attr name br.com.loja.loja_ale:alpha
+   627       */
+
+   635       * <tr><th>Attribute</th><th>Description</th></tr>
+   636:      * <tr><td><code>{@link #CoordinatorLayout_keylines br.com.loja.loja_ale:keylines}</code></td><td>A reference to an array of integers representing the
+   637       * locations of horizontal keylines in dp from the starting edge.</td></tr>
+   638:      * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground br.com.loja.loja_ale:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+   639       * </table>
+
+   659       *
+   660:      * @attr name br.com.loja.loja_ale:keylines
+   661       */
+
+   675       *
+   676:      * @attr name br.com.loja.loja_ale:statusBarBackground
+   677       */
+
+   686       * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
+   687:      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor br.com.loja.loja_ale:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+   688:      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity br.com.loja.loja_ale:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+   689       * within its parent's bounds.</td></tr>
+   690:      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior br.com.loja.loja_ale:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+   691       * for this child view.</td></tr>
+   692:      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges br.com.loja.loja_ale:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+   693:      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge br.com.loja.loja_ale:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+   694       * dodge it.</td></tr>
+   695:      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline br.com.loja.loja_ale:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+   696       * </table>
+
+   747       *
+   748:      * @attr name br.com.loja.loja_ale:layout_anchor
+   749       */
+
+   784       *
+   785:      * @attr name br.com.loja.loja_ale:layout_anchorGravity
+   786       */
+
+   796       *
+   797:      * @attr name br.com.loja.loja_ale:layout_behavior
+   798       */
+
+   820       *
+   821:      * @attr name br.com.loja.loja_ale:layout_dodgeInsetEdges
+   822       */
+
+   844       *
+   845:      * @attr name br.com.loja.loja_ale:layout_insetEdge
+   846       */
+
+   856       *
+   857:      * @attr name br.com.loja.loja_ale:layout_keyline
+   858       */
+
+   866       * <tr><th>Attribute</th><th>Description</th></tr>
+   867:      * <tr><td><code>{@link #FontFamily_fontProviderAuthority br.com.loja.loja_ale:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+   868:      * <tr><td><code>{@link #FontFamily_fontProviderCerts br.com.loja.loja_ale:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+   869:      * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy br.com.loja.loja_ale:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+   870:      * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout br.com.loja.loja_ale:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+   871:      * <tr><td><code>{@link #FontFamily_fontProviderPackage br.com.loja.loja_ale:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+   872:      * <tr><td><code>{@link #FontFamily_fontProviderQuery br.com.loja.loja_ale:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+   873       * </table>
+
+   892       *
+   893:      * @attr name br.com.loja.loja_ale:fontProviderAuthority
+   894       */
+
+   909       *
+   910:      * @attr name br.com.loja.loja_ale:fontProviderCerts
+   911       */
+
+   941       *
+   942:      * @attr name br.com.loja.loja_ale:fontProviderFetchStrategy
+   943       */
+
+   960       *
+   961:      * @attr name br.com.loja.loja_ale:fontProviderFetchTimeout
+   962       */
+
+   972       *
+   973:      * @attr name br.com.loja.loja_ale:fontProviderPackage
+   974       */
+
+   984       *
+   985:      * @attr br.com.loja.loja_ale:fontProviderQuery
+   986       */
+
+   999       * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
+  1000:      * <tr><td><code>{@link #FontFamilyFont_font br.com.loja.loja_ale:font}</code></td><td>The reference to the font file to be used.</td></tr>
+  1001:      * <tr><td><code>{@link #FontFamilyFont_fontStyle br.com.loja.loja_ale:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+  1002:      * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings br.com.loja.loja_ale:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+  1003:      * <tr><td><code>{@link #FontFamilyFont_fontWeight br.com.loja.loja_ale:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+  1004:      * <tr><td><code>{@link #FontFamilyFont_ttcIndex br.com.loja.loja_ale:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+  1005       * </table>
+
+  1090       *
+  1091:      * @attr name br.com.loja.loja_ale:font
+  1092       */
+
+  1110       *
+  1111:      * @attr name br.com.loja.loja_ale:fontStyle
+  1112       */
+
+  1124       *
+  1125:      * @attr name br.com.loja.loja_ale:fontVariationSettings
+  1126       */
+
+  1138       *
+  1139:      * @attr name br.com.loja.loja_ale:fontWeight
+  1140       */
+
+  1149       *
+  1150:      * @attr name br.com.loja.loja_ale:ttcIndex
+  1151       */
+
+  1402       * <tr><th>Attribute</th><th>Description</th></tr>
+  1403:      * <tr><td><code>{@link #LoadingImageView_circleCrop br.com.loja.loja_ale:circleCrop}</code></td><td></td></tr>
+  1404:      * <tr><td><code>{@link #LoadingImageView_imageAspectRatio br.com.loja.loja_ale:imageAspectRatio}</code></td><td></td></tr>
+  1405:      * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust br.com.loja.loja_ale:imageAspectRatioAdjust}</code></td><td></td></tr>
+  1406       * </table>
+
+  1414      /**
+  1415:      * <p>This symbol is the offset where the {@link br.com.loja.loja_ale.R.attr#circleCrop}
+  1416       * attribute's value can be found in the {@link #LoadingImageView} array.
+
+  1420       *
+  1421:      * @attr name br.com.loja.loja_ale:circleCrop
+  1422       */
+
+  1424      /**
+  1425:      * <p>This symbol is the offset where the {@link br.com.loja.loja_alel.R.attr#imageAspectRatio}
+  1426       * attribute's value can be found in the {@link #LoadingImageView} array.
+
+  1429       *
+  1430:      * @attr name br.com.loja.loja_ale:imageAspectRatio
+  1431       */
+
+  1433      /**
+  1434:      * <p>This symbol is the offset where the {@link br.com.loja.loja_ale.R.attr#imageAspectRatioAdjust}
+  1435       * attribute's value can be found in the {@link #LoadingImageView} array.
+
+  1447       *
+  1448:      * @attr name br.com.ciolfi.loja_virtual:imageAspectRatioAdjust
+  1449       */
+
+  1457       * <tr><th>Attribute</th><th>Description</th></tr>
+  1458:      * <tr><td><code>{@link #SignInButton_buttonSize br.com.loja.loja_ale:buttonSize}</code></td><td></td></tr>
+  1459:      * <tr><td><code>{@link #SignInButton_colorScheme br.com.loja.loja_ale:colorScheme}</code></td><td></td></tr>
+  1460:      * <tr><td><code>{@link #SignInButton_scopeUris br.com.loja.loja_ale:scopeUris}</code></td><td></td></tr>
+  1461       * </table>
+
+  1469      /**
+  1470:      * <p>This symbol is the offset where the {@link br.com.loja.loja_ale.R.attr#buttonSize}
+  1471       * attribute's value can be found in the {@link #SignInButton} array.
+
+  1487       *
+  1488:      * @attr name br.com.loja.loja_ale:buttonSize
+  1489       */
+
+  1491      /**
+  1492:      * <p>This symbol is the offset where the {@link br.com.loja.loja_ale.R.attr#colorScheme}
+  1493       * attribute's value can be found in the {@link #SignInButton} array.
+
+  1509       *
+  1510:      * @attr name br.com.loja.loja_ale:colorScheme
+  1511       */
+
+  1513      /**
+  1514:      * <p>This symbol is the offset where the {@link br.com.loja.loja_ale.R.attr#scopeUris}
+  1515       * attribute's value can be found in the {@link #SignInButton} array.
+
+  1523       *
+  1524:      * @attr name br.com.loja.loja_ale:scopeUris
+  1525       */
+
+build\app\generated\source\buildConfig\debug\br\com\loja\loja_ale\BuildConfig.java:
+  3   */
+  4: package br.com.loja.loja_ale;
+  5  
+
+  7    public static final boolean DEBUG = Boolean.parseBoolean("true");
+  8:   public static final String APPLICATION_ID = "br.com.loja.loja_ale";
+  9    public static final String BUILD_TYPE = "debug";
+
+build\app\intermediates\bundle_manifest\debug\processDebugManifest\bundle-manifest\AndroidManifest.xml:
+   2  <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+   3:     package="br.com.loja.loja_ale"
+   4      android:versionCode="1"
+
+  31          <activity
+  32:             android:name="br.com.loja.loja_ale.MainActivity"
+  33              android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+
+  86              android:name="com.google.firebase.provider.FirebaseInitProvider"
+  87:             android:authorities="br.com.loja.loja_ale.firebaseinitprovider"
+  88              android:exported="false"
+
+build\app\intermediates\bundle_manifest\debug\processDebugManifest\bundle-manifest\output.json:
+  1: [{"outputType":{"type":"BUNDLE_MANIFEST"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"br.com.ciolfi.loja_virtual","split":"","minSdkVersion":"16"}}]
+
+build\app\intermediates\instant_app_manifest\debug\processDebugManifest\instant-app-manifest\AndroidManifest.xml:
+   2  <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+   3:     package="br.com.loja.loja_ale"
+   4      android:targetSandboxVersion="2"
+
+  32          <activity
+  33:             android:name="br.com.loja.loja_ale.MainActivity"
+  34              android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+
+  87              android:name="com.google.firebase.provider.FirebaseInitProvider"
+  88:             android:authorities="br.com.loja.loja_ale.firebaseinitprovider"
+  89              android:exported="false"
+
+build\app\intermediates\instant_app_manifest\debug\processDebugManifest\instant-app-manifest\output.json:
+  1: [{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"br.com.ciolfi.loja_virtual","split":"","minSdkVersion":"16"}}]
+
+build\app\intermediates\instant_run_merged_manifests\debug\processDebugManifest\instant-run\output.json:
+  1: [{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"br.com.ciolfi.loja_virtual","split":"","minSdkVersion":"16"}}]
+
+build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:
+   2  <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+   3:     package="br.com.loja.loja_ale"
+   4      android:versionCode="1"
+
+  31          <activity
+  32:             android:name="br.com.loja.loja_ale.MainActivity"
+  33              android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+
+  86              android:name="com.google.firebase.provider.FirebaseInitProvider"
+  87:             android:authorities="br.com.loja.loja_ale.firebaseinitprovider"
+  88              android:exported="false"
+
+build\app\intermediates\merged_manifests\debug\output.json:
+  1: [{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"br.com.ciolfi.loja_virtual","split":"","minSdkVersion":"16"}}]
+
+build\app\intermediates\metadata_application_id\debug\writeDebugApplicationId\application-id.txt:
+  1: br.com.loja.loja_ale
+
+build\app\intermediates\processed_res\debug\processDebugResources\out\output.json:
+  1: [{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"resources-debug.ap_","properties":{"packageId":"br.com.ciolfi.loja_virtual","split":"","minSdkVersion":"16"}}]
+
+build\app\intermediates\res\symbol-table-with-package\debug\package-aware-r.txt:
+  1: br.com.loja.loja_ale
+  2  attr alpha
+
+build\app\outputs\logs\manifest-merger-debug-report.txt:
+  102  		ADDED from C:\src\loja\loja_ale\android\app\src\main\AndroidManifest.xml:10:9-57
+  103: activity#br.com.loja.loja_ale.MainActivity
+  104  ADDED from C:\src\loja\loja_ale\android\app\src\main\AndroidManifest.xml:13:9-31:20
+
+ios\Runner\GoogleService-Info.plist:
+  19  	<key>BUNDLE_ID</key>
+  20: 	<string>br.com.loja.loja_ale</string>
+  21  	<key>PROJECT_ID</key>
+
+ios\Runner.xcodeproj\project.pbxproj:
+  406  				);
+  407: 				PRODUCT_BUNDLE_IDENTIFIER = br.com.loja.loja_ale;
+  408  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  531  				);
+  532: 				PRODUCT_BUNDLE_IDENTIFIER = br.com.loja.loja_ale;
+  533  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  554  				);
+  555: 				PRODUCT_BUNDLE_IDENTIFIER = br.com.loja.loja_ale;
+  556  				PRODUCT_NAME = "$(TARGET_NAME)";

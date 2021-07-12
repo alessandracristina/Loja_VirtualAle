@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "911256080335",
+    "project_id": "loja-ale",
+    "storage_bucket": "loja-ale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911256080335:android:d9521c34ac18b8eba7ccba",
+        "android_client_info": {
+          "package_name": "br.com.example.loja_alecris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911256080335-7gf17uphm6s1pg4rf69tg3dvcn06r05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzlHidnhUAMsy4JC27kMhDLkqiBUHAM5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911256080335-7gf17uphm6s1pg4rf69tg3dvcn06r05r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911256080335:android:a2582e1b55c63c72a7ccba",
+        "android_client_info": {
+          "package_name": "br.com.loja.loja_ale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911256080335-7gf17uphm6s1pg4rf69tg3dvcn06r05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzlHidnhUAMsy4JC27kMhDLkqiBUHAM5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911256080335-7gf17uphm6s1pg4rf69tg3dvcn06r05r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911256080335:android:550f4aad43a08cbca7ccba",
+        "android_client_info": {
+          "package_name": "br.com.loja_alecris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911256080335-7gf17uphm6s1pg4rf69tg3dvcn06r05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzlHidnhUAMsy4JC27kMhDLkqiBUHAM5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911256080335-7gf17uphm6s1pg4rf69tg3dvcn06r05r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911256080335:android:c8463ada833bdaa7a7ccba",
+        "android_client_info": {
+          "package_name": "com.example.loja_alessandracris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911256080335-7gf17uphm6s1pg4rf69tg3dvcn06r05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzlHidnhUAMsy4JC27kMhDLkqiBUHAM5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911256080335-7gf17uphm6s1pg4rf69tg3dvcn06r05r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911256080335:android:8524629fddbaa01ca7ccba",
+        "android_client_info": {
+          "package_name": "com.example.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911256080335-7gf17uphm6s1pg4rf69tg3dvcn06r05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzlHidnhUAMsy4JC27kMhDLkqiBUHAM5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911256080335-7gf17uphm6s1pg4rf69tg3dvcn06r05r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
